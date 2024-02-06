@@ -4,7 +4,7 @@ Metaversus is a cutting-edge UI/UX template crafted with modern design principle
 
 ## Visit
 
-Explore the template by visiting [Metaversus](https://metaversusdao.vercel.app/).
+Explore the template by visiting [Metaversus](https://metaversus-modern-ui-landing-page.vercel.app/).
 
 ## Technologies Used
 
